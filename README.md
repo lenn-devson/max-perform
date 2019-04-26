@@ -30,4 +30,4 @@ allows fast loading when recreating the class. How would you keep the
 functionality of the class when you don't have access to all data any more.
 
 
-See [devlog](.../devlog.md) for implementation steps and thoughts from dev
+See [devlog](devlog.md) for implementation steps and thoughts from dev
